@@ -1,0 +1,15 @@
+{
+  "name": "licorice-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "a dark theme for html/js/css/php. slim-dark-ui recommended.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/licorice-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
