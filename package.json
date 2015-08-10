@@ -1,7 +1,7 @@
 {
   "name": "licorice-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a dark theme for html/js/css/php.",
   "keywords": [
     "syntax",
